@@ -10,3 +10,7 @@ Nothing related, just a piece of code here:
 for i in range(5):
   print("Vamos Brasil!!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [X] Introduce myself to the world
